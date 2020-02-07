@@ -1,7 +1,13 @@
 # Menu navigation links
 
-- title: Theme Setup
+- title: Paintings
   url: /theme-setup/
 
-- title: External Link
+- title: Sculptures
   url: http://mademistakes.com
+
+  - title: Photography
+    url: /theme-setup/
+
+  - title: For Sale
+    url: http://mademistakes.com
